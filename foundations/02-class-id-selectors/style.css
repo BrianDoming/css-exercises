@@ -1,0 +1,19 @@
+.pinkish {
+    background-color: rgb(214, 2, 83) ;
+    font-family: verdana, sans-seriff;
+}
+
+.blue{
+    color: rgb(32, 9, 231);
+    font-size: 36px;
+}
+
+.pinkish#size {
+    font-size: 24px;
+}
+
+.last {
+    background-color: rgb(67, 231, 17);
+    font-size: 24px;
+    font-weight: bold;
+}

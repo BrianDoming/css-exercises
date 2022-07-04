@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  background: white;
+  background: rgb(109, 201, 100);
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
 }
@@ -59,7 +59,7 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 16px;
+  gap: 4px;
 }
 
 .left, .right {
